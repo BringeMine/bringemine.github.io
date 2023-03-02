@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16de63aa.css",
+    "main.js": "/static/js/main.a2a97016.js",
+    "static/js/27.fb0bfffe.chunk.js": "/static/js/27.fb0bfffe.chunk.js",
+    "static/media/prewiew.png": "/static/media/prewiew.ea18cae1d4dd5ba46b33.png",
+    "static/media/deep_dark.jpg": "/static/media/deep_dark.295f8fd85e5ab736b8b4.jpg",
+    "static/media/Telegram.svg": "/static/media/Telegram.b39684d8a8c2a548aec79bb7f6c09a34.svg",
+    "static/media/YouTube.svg": "/static/media/YouTube.25baa7bb370eadc586f70050ed6a933a.svg",
+    "static/media/Discord_Blue.svg": "/static/media/Discord_Blue.472d4a510cf2e950c9fc5221f35e8471.svg",
+    "static/media/VK.svg": "/static/media/VK.d170476266ce091d43fca5de4ea991be.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.2b6c2c58dad93a8afca6432a54f3dfb8.svg"
+  },
+  "entrypoints": [
+    "static/css/main.16de63aa.css",
+    "static/js/main.a2a97016.js"
+  ]
+}
