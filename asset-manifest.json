@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.719abf4d.css",
-    "main.js": "/static/js/main.d4e9383c.js",
+    "main.js": "/static/js/main.75ba9130.js",
     "static/js/27.fb0bfffe.chunk.js": "/static/js/27.fb0bfffe.chunk.js",
     "static/media/prewiew.png": "/static/media/prewiew.ea18cae1d4dd5ba46b33.png",
     "static/media/deep_dark.jpg": "/static/media/deep_dark.295f8fd85e5ab736b8b4.jpg",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.719abf4d.css",
-    "static/js/main.d4e9383c.js"
+    "static/js/main.75ba9130.js"
   ]
 }
